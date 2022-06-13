@@ -1,0 +1,1 @@
+enum LottiePathEnum { SUNNY, MOON }

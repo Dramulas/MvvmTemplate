@@ -1,0 +1,85 @@
+{
+    "planned_tours": {
+        "list": {
+            "noData": "There are not any added records yet."
+        },
+        "edit": {
+            "app_bar_title": "Unplanned Tours Edit Page",
+            "location": "Location"
+        },
+        "finding": {
+            "noFinding": "There are not any finding records yet."
+        },
+        "detail": {
+            "details": "Planned Tour Detail",
+            "appBarTitle": "Detail"
+        }
+    },
+    "unplanned_tours": {
+        "list": {
+            "noData": "There are not any added records yet."
+        },
+        "edit": {
+            "app_bar_title": "Unplanned Tours Edit Page",
+            "location": "Location"
+        },
+        "finding": {
+            "noFinding": "There are not any finding records yet."
+        },
+        "detail": {
+            "details": "Unplanned Tour Detail",
+            "appBarTitle": "Detail"
+        }
+    },
+    "welcome": "Welcome to My App",
+    "onBoard": {
+        "page1": {
+            "title": "Planned Tours",
+            "desc": "Complete your yearly selected planned tours. Follow your work easily. "
+        },
+        "page2": {
+            "title": "Unplanned Tours",
+            "desc": "Create your optional tours where ever you are. Whenever you want. Add your observations, attach files by adding findings into tours. "
+        },
+        "page3": {
+            "title": "For Your Safety",
+            "desc": "This app is made by love for your safety by Arfitect!"
+        }
+    },
+    "home": {
+        "login": {
+            "tab1": "Log in",
+            "tab2": "Sign Up",
+            "email": "Email",
+            "password": "Password",
+            "forgotText": "Forgot Password",
+            "login": "Login",
+            "noAccount": "Don't have account"
+        },
+        "setting": {
+            "title": "Settings",
+            "userDetails": "User Details",
+            "exit": "Exit",
+            "appTour": "Application Tour",
+            "about": {
+                "title": "About Project",
+                "contributions": "Project Contributors",
+                "homepage": "Home Page"
+            },
+            "core": {
+                "themeTitle": "Change Theme",
+                "themeDesc": "You can change application theme.",
+                "langDesc": "You can change application language.",
+                "langTitle": "Change Language"
+            },
+            "appSettings": "Application Settings"
+        },
+        "bottom_app_bar": {
+            "tabs": {
+                "planned_tours": "Planned Tours",
+                "unplanned_tours": "Unplanned Tours",
+                "settings": "Settings"
+            }
+        }
+    }
+}

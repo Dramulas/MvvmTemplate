@@ -1,4 +1,4 @@
-# OSIGO_Mobile
+# TEMPLATE_Mobile
 
 A new Flutter project.
 

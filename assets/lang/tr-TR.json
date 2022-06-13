@@ -1,0 +1,86 @@
+{
+    "planned_tours": {
+        "list": {
+            "noData": "Henüz Eklenmiş Bir Planlı Tur Kaydı Bulunmamaktadır."
+        },
+        "edit": {
+            "app_bar_title": "Plansız Tur Düzenleme Sayfası",
+            "location": "Lokasyon"
+        },
+        "finding": {
+            "noFinding": "Henüz eklenmiş bir bulgu bulunmamaktadır."
+        },
+        "detail": {
+            "details": "Planlı Tur Detayı",
+            "appBarTitle": "Planlı Tur Detayı"
+        }
+    },
+    "unplanned_tours": {
+        "list": {
+            "noData": "Henüz eklenmiş bir Plansız Tur Kaydı bulunmamaktadır."
+        },
+        "edit": {
+            "app_bar_title": "Plansız Tur Düzenleme Sayfası",
+            "location": "Location"
+        },
+        "finding": {
+            "noFinding": "Henüz eklenmiş bir bulgu bulunmamaktadır."
+        },
+        "detail": {
+            "details": "Plansız Tur Detayı",
+            "appBarTitle": "Plansız Tur Detayı"
+        }
+    },
+    "welcome": "Welcome to My App",
+    "onBoard": {
+        "page1": {
+            "title": "Planlı Turlar",
+            "desc": "Yıllık olarak seçilen planlı turlarınızı tamamlayın. İşinizi kolaylıkla halledin."
+        },
+        "page2": {
+            "title": "Plansız Turlar",
+            "desc": "Nerede olursanız olun isteğe bağlı turlarınızı oluşturun. Ne zaman istersen. Gözlemlerinizi ekleyin, bulguları turlara ekleyerek dosya ekleyin."
+        },
+        "page3": {
+            "title": "Güvenliğiniz için",
+            "desc": "Bu uygulama, Arfitect tarafından güvenliğiniz için sevgiyle yapılmıştır!"
+        }
+    },
+    "home": {
+        "login": {
+            "tab1": "Log in",
+            "tab2": "Sign Up",
+            "email": "E-posta",
+            "password": "Password",
+            "forgotText": "Forgot Password",
+            "login": "Login",
+            "noAccount": "Don't have account"
+        },
+        "setting": {
+            "title": "Ayarlar",
+            "userDetails": "Kullanıcı Bilgileri",
+            "exit": "Çıkış",
+            "appTour": "Uygulama Turu",
+            "about": {
+                "title": "Proje Hakkında",
+
+                "contributions": "Projeye Katkıda Bulunanlar",
+                "homepage": "Anasayfa"
+            },
+            "core": {
+                "themeTitle": "Temayı Değiştir",
+                "themeDesc": "Uygulama temasını değiştirebilirsiniz.",
+                "langDesc": "Uygulama dilini değiştirebilirsiniz.",
+                "langTitle": "Dil Değiştir"
+            },
+            "appSettings": "Uygulama Ayarları"
+        },
+        "bottom_app_bar": {
+            "tabs": {
+                "planned_tours": "Planlı Turlar",
+                "unplanned_tours": "Plansız Turlar",
+                "settings": "Ayarlar"
+            }
+        }
+    }
+}
